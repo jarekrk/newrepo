@@ -1,0 +1,6 @@
+#lokalny plik ignore musi byc w katalogu swojego repo
+#locally ignore .bak files
+*.bak
+
+#lokalnie ignouj tmp dir.
+tmp/*
