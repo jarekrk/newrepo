@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#function ile_miejsca()
+#ddfunction ile_miejsca()
 {
 echo dziala?
 $(df -h)i
